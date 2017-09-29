@@ -1,4 +1,4 @@
-#MWritten by Mathews Fazza for Data and Applications Security CS 4389 - Fall2017
+#MWritten by Mathews Fazza and Jake Swindle for Data and Applications Security CS 4389 - Fall2017
 #Assignment 4
 
 import string
